@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border:5px solid navy;
+    border-radius:10px;
+    padding:15px;
+}
+
+header a {
+    text-decoration: none;
+    background:navy;
+    border:1px solid navy;
+    padding:10px;
+    color: white;
+    margin:20px;
+    border-radius:10px;
+}
+
+h1 {
+    border:5px solid navy;
+    text-align:center;
+    color:black;
+    border-radius:10px;
+}
+
+footer {
+    background:navy;
+    border:5px solid navy;
+}
+
+footer p {
+    background: white;
+
+}
+
+nav a {
+    border:5px solid navy;
+    margin:40px;
+    padding:10px;
+    border-radius:10px;
+    background:navy;
+    color:blue;
+    text-decoration:none;
+
+}
+
+nav {
+    padding:30px
+}
+
+main a {
+    color:white;
+}
+
+.production {
+    background:white;
+    color:navy;
+}
+
+.moloko {
+    border:5px solid navy;
+    border-radius: 10px;
+}
+
+.mik {
+    color:navy;
+}
+
+.milk {
+    color: navy;
+}
+
+.milki {
+    color: navy;
+}
